@@ -1,7 +1,4 @@
 # ToastModoki
-"Toast" replacement for GameJolt FNF Integration, running on Psych Engine v0.7.3
-
-# (+ === JP texts === +)
 Psych Engine v0.7.3でGameJolt FNF Integrationを実装したい？
 
 なら、きっとこれが役に立つはず。
