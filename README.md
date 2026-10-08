@@ -29,7 +29,7 @@ Psych Engine v0.7.3でGameJolt FNF Integrationを実装したい？
 
 ![VS  Camellia 2025_03_26 17_20_06](https://github.com/user-attachments/assets/ea3df435-f4b9-44fd-b852-44a3ab3abe86)
 
-VS Camelliaを遊んだことありますか？あれでGamejoltにログインすると、こういう感じでGamejoltに関するなんかそういう文章がにゅ～んと出てくるんですが……
+VS Camellia V2.5を遊んだことありますか？あれでGamejoltにログインすると、こういう感じでGamejoltに関するなんかそういう文章がにゅ～んと出てくるんですが……
 
 **……あれがToastです。** そうです。Toastは、あのにゅ～んって文章を右上に出すアレのことなのです。
 
